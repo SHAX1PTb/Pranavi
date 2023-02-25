@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_poen=self.webpackChunkmy_poen||[]).push([[5489],{6184:e=>{e.exports=JSON.parse('{"permalink":"/Pranavi/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

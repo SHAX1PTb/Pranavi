@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_poen=self.webpackChunkmy_poen||[]).push([[103],{3837:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Pranavi/blog/tags/hola","allTagsPath":"/Pranavi/blog/tags","count":1}')}}]);
