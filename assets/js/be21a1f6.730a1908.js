@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_poen=self.webpackChunkmy_poen||[]).push([[4425],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
